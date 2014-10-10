@@ -1,5 +1,5 @@
 /*
- * @author Lawton C Mizel
+ * @author Lawton C Mizell
  * @Version 1.0, 30 September 2014
  * 
  *  a game where you are 
